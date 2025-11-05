@@ -52,3 +52,9 @@ This system allows you to:
 1. **Clone this repository**
    ```bash
    git clone https://github.com/AdnanAli789/StudentDB-Stack.git
+
+   ✍️ Author
+
+Adnan Ali
+🎓 Software Engineering Student
+💻 Passionate about Java, Data Structures, and System Design
