@@ -53,8 +53,8 @@ This system allows you to:
    ```bash
    git clone https://github.com/AdnanAli789/StudentDB-Stack.git
 
-   ✍️ Author
-
+   
+✍️ Author
 Adnan Ali
 🎓 Software Engineering Student
 💻 Passionate about Java, Data Structures, and System Design
