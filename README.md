@@ -55,6 +55,9 @@ This system allows you to:
 
    
 ✍️ Author
+
 Adnan Ali
+
 🎓 Software Engineering Student
+
 💻 Passionate about Java, Data Structures, and System Design
